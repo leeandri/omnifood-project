@@ -1,3 +1,3 @@
 # omnifood-project
-revision webdesign
+Révision responsive design 
 par Lee ANDRIAMAHOLISON
