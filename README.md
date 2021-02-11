@@ -1,3 +1,3 @@
 # omnifood-project
-training responsive webdesign
-by Lee ANDRIAMAHOLISON
+Révision responsive design 
+par Lee ANDRIAMAHOLISON
